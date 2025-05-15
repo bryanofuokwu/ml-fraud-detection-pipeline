@@ -88,5 +88,3 @@ u2, 145.7, 17.9, 0.4
 - Real-time feature pipeline powered by Kafka + Flink
 - Batch ML aggregation using Spark
 - Airflow automates the workflow daily
-
-Let me know if you'd like this packaged into a GitHub repo!
